@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<!DOCTYPE agenda> 
+<agenda> 
+<contacto tipo_ejem="amigos" titulo="XML practico" infancia="colegio"> 
+<tipo> <amigos colegio="san cayetano" año="1995" compañeros="1"></amigos> </tipo> 
+<amigo nombre="miguel"></amigo> 
+<amigo apellido="llado"></amigo> 
+<amigo telefono="971276745" ciudad="Palma de Malloca"></amigo> 
+</contacto> 
+<fichero_curso tipo_ejem="curso" titulo="datos academicos" colegio="san cayetano"> 
+<tipo> 
+<estudios> 
+<tipo_estudios nombre="EGB" año="1995"></tipo_estudios> 
+</estudios> 
+</fichero_curso> 
+<profesor nombre="pilar sanchez"></profesor> 
+<asignatura nombre="ciencias de la naturaleza"> 
+<numero_horas dia="2" mes="40"></numero_horas> 
+</profesor>
+</ejemplar> 
+</agenda> 
