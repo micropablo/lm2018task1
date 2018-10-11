@@ -1,6 +1,9 @@
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-#### Encabezado 4
-##### Encabezado 5
-###### Encabezado 6
+# LMSGI LMSGI01- RECONOCIMIEMTO DE LAS CARACTERÍSTICAS DE LENGUAJES DE MARCAS.
+## EJERCICIOS RESUELTOS: 
+* 1A CREAR RTF
+* 1B CREAR XML
+* 1C CREAR HTML
+## DEMOSTRAR QUE FUNCIONA HTML CON raw.githack.com 
+* https://rawcdn.githack.com/micropablo/lm2018task1/master/lm.html
+*CURSIVA*
+**NEGRITA**
