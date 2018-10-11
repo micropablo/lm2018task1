@@ -1,2 +1,6 @@
-# lm2018task1
-He buscado por internet ayuda para hacer los archivos: rtf,xml y html
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### Encabezado 4
+##### Encabezado 5
+###### Encabezado 6
